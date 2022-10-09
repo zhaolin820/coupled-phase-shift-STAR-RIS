@@ -13,10 +13,10 @@ values.noise = 10^(values.noise_dB/10);
 
 
 values.M = 8; % overall antennas
-values.STAR_size = [10,2]; % reflecting elements at RIS
-values.N = values.STAR_size(1)*values.STAR_size(2); % reflecting elements at RIS
+values.STAR_size = [10,2]; % array size of STARS
+values.N = values.STAR_size(1)*values.STAR_size(2); %  number of elements at STAR
 
-values.Pt = 10^(20/10); % overall transmit power
+values.Pt = 10^(20/10); % overall transmit power in dBm
 values.n = 1; % equivalent noise power
 values.K = 4; % user number
 
