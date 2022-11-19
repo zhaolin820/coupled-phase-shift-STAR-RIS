@@ -18,9 +18,9 @@ Run `main.m`
 If you in any way use this code for research, please cite our original article listed above. The corresponding BiBTeX citation is given below:
 ```
 @article{wang2022coupled,
-  title={Coupled Phase-Shift {STAR-RISs}: A General Optimization Framework},
+  title={Coupled Phase-Shift {STAR-RIS}s: A General Optimization Framework},
   author={Wang, Zhaolin and Mu, Xidong and Liu, Yuanwei and Schober, Robert},
-  journal={arXiv preprint arXiv:2208.01942},
-  year={2022}
+  journal={{IEEE} Wireless Commun. Lett.},
+  year={early access, Nov. 2, 2022, doi: 10.1109/LWC.2022.3219020.}
 }
 ```
