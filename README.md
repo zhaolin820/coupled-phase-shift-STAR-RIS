@@ -20,7 +20,7 @@ Run `main.m`
 ### Expected Results
 
 #### Convergence of the Proposed Algorithm
-<img decoding="async" src="./convergence.jpg" width="70%">
+<img decoding="async" src="./convergence.jpg" width="50%">
 
 ## Citing
 If you in any way use this code for research, please cite our original article listed above. The corresponding BiBTeX citation is given below:
